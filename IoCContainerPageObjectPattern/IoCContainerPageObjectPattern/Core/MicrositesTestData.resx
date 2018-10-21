@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CohenAndSteersBodyText" xml:space="preserve">
+    <value>WHAT IS A UIT? Investors Guide to UITs Attractive Opportunity in Closed-End Funds COHEN &amp; STEERS UIT PORTFOLIOS Closed-End Fund UITs Preferred UITs Equity UITs HOW TO ORDER UIT'S If you are a retail client please contact your Financial Adviser and inquire about purchasing AAM Unit Investment Trust products. If you are a registered Financial Adviser and would like to sign into AAM's website please click here. ADVISORS ASSET MANAGEMENT UNIT INVESTMENT TRUST SALES AND SERVICE DESK: (866) 606-7220 AAM partners with Cohen &amp; Steers on this line of UIT products, but any questions or inquiries about the products should be directed to AAM or your own Financial Adviser.</value>
+  </data>
+  <data name="CohenAndSteersLandingSubHeaderText" xml:space="preserve">
+    <value>To return to the Cohen &amp; Steers website click here.</value>
+  </data>
+  <data name="Disclaimer" xml:space="preserve">
+    <value>Standard &amp; Poor's Financial Services LLC ("S&amp;P"). Reproduction of RatingsXpress-Credit Ratings in any form is prohibited except with the prior written permission of S&amp;P. S&amp;P does not guarantee the accuracy, completeness, timeliness or availability of any information, including ratings, and is not responsible for any errors or omissions (negligent or otherwise), regardless of the cause, or for the results obtained from the use of ratings. S&amp;P GIVES NO EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR USE. S&amp;P SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTIAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, or LOSSES (INCLUDING LOST INCOME OR PROFITS AND OPPORTUNITY COSTS) IN CONNECTION WITH ANY USE OF RATINGS. S&amp;P's ratings are statements of opinions and are not statements of fact or recommendations to purchase, hold or sell securities. They do not address the market value of securities or the suitability of securities for investment purposes, and should not be relied on as investment advice. This material is not intended to be a recommendation or investment advice, does not constitute a solicitation to buy or sell securities, and is not provided in a fiduciary capacity within the meaning of the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code. The information provided does not take into account the specific objectives or circumstances of any particular investor, or suggest any specific course of action. Investment decisions should be made based on an investor’s objectives and circumstances and in consultation with his or her advisers.</value>
+  </data>
+  <data name="DisclaimerFinancialAdvisorUseOnly" xml:space="preserve">
+    <value>For Financial Advisor Use Only - Not For Use With the Public - www.aamlive.com</value>
+  </data>
+  <data name="LandingHeaderText" xml:space="preserve">
+    <value>SPONSOR OF THE AAM PRODUCT LINE OF UNIT INVESTMENT TRUSTS Member SIPC - Member FINRA</value>
+  </data>
+  <data name="MerrillLynchAllPortfoliosSubHeaderText" xml:space="preserve">
+    <value>This website is intended for use by Financial Advisors of Merrill Lynch. • Call (866) MLSERVICE with Questions</value>
+  </data>
+  <data name="MerrillLynchBodyText" xml:space="preserve">
+    <value>HOW TO TICKET
+UIT NEW ISSUE ORDERS
+
+From your WM Workstation: Other Inventory &gt;&gt; Menu (OCP)
+Orders are executed daily at market prices (after initial deposit date).
+Prior days prices are posted on the UIT homepage.
+UIT ROLLOVER ORDERS
+
+From your WM Workstation: Orders &gt;&gt; Other Products &gt;&gt; UITs - New Orders
+Alerts will be sent to FAs with order entry instructions.
+HOW TO ORDER MATERIALS
+
+Contact your Advisors Asset Management, Inc. Wholesaler.
+Wholesaler Territory Map.
+MERRILL LYNCH UIT TRADING AND OPERATIONS: (866) MLSERVICE
+MERRILL LYNCH UIT PRODUCT SUPPORT: (212) 449-0199
+ADVISORS ASSET MANAGEMENT, INC. WHOLESALER RESOURCES:
+(866) 606-7220</value>
+  </data>
+  <data name="MerrillLynchLandingSubHeaderText" xml:space="preserve">
+    <value>This website is intended for use by Financial Advisors of Merrill Lynch. • Call (866) MLSERVICE with Questions</value>
+  </data>
+  <data name="MorganStanleyAllPortfoliosSubHeaderText" xml:space="preserve">
+    <value>This website is intended for use by Financial Advisors of Morgan Stanley Wealth Management. Sales Charges, Credits, Volume Discounts • Call (800) 869-0690 with Questions</value>
+  </data>
+  <data name="MorganStanleyBodyText" xml:space="preserve">
+    <value>HOW TO TICKET
+Place ticket on Morgan Stanley Wealth Management Order Entry System using ticketing symbol or CUSIP. NASDAQ tickers cannot be accepted.
+In order to access Sales Charges/FA Credit, please access Primary Issue Trust Finder located at: Ideas--Products--Unit Investment Trust--Primary Issue Trust Finder
+HOW TO ORDER MATERIALS
+Contact your AAM, Inc Wholesaler.
+Wholesaler Territory Map.
+MORGAN STANLEY WEALTH MANAGEMENT UNIT INVESTMENT TRUST SALES AND SERVICE DESK:
+(800) 869-0690
+ADVISORS ASSET MANAGEMENT, INC. :
+(866) 606-7220
+What Distinguishes an AAM UIT?</value>
+  </data>
+  <data name="MorganStanleyLandingSubHeaderText" xml:space="preserve">
+    <value>This website is intended for use by Financial Advisors of Morgan Stanley Wealth Management. Sales Charges, Credits, Volume Discounts • Call (800) 869-0690 with Questions</value>
+  </data>
+</root>
